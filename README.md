@@ -1,5 +1,10 @@
-## Hi there 👋
+# Halo semua!👋
 
+Perkenalkan nama saya **erzarchive**.<br>
+
+Saya seorang **Mahasiswa** di .<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun
 <!--
 **erzarchive/erzarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
